@@ -9,4 +9,4 @@ pip install pandas
 pip install requests
 ```
 
-Usage: The IP addresses should be stored on an excel file named ```ip_addresses.xlsx``` and this excel file should be located at the same directory with the python code.
+__Usage:__ The IP addresses should be stored on an excel file named ```ip_addresses.xlsx``` and this excel file should be located at the same directory with the python code.
