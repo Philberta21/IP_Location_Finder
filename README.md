@@ -4,7 +4,7 @@ Gets multiple IPs from Excel file and gets the location and host providers....
 
 __Note:__ The following libs. need to be install before execution command:
 
-```bash
+```
 pip install pandas
 pip install requests
 ```
