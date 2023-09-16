@@ -1,6 +1,6 @@
 # IP Location Finder
 
-Gets multiple IPs from Excel file and gets the location and host providers...
+Gets multiple IPs from Excel file and gets the location and host providers.
 
 __Note:__ The following libs. need to be install before execution command:
 
